@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FreshLook2022/static/css/main.4b0c636f.css",
+    "main.js": "/FreshLook2022/static/js/main.6c533899.js",
+    "static/js/787.fb0620e9.chunk.js": "/FreshLook2022/static/js/787.fb0620e9.chunk.js",
+    "index.html": "/FreshLook2022/index.html",
+    "main.4b0c636f.css.map": "/FreshLook2022/static/css/main.4b0c636f.css.map",
+    "main.6c533899.js.map": "/FreshLook2022/static/js/main.6c533899.js.map",
+    "787.fb0620e9.chunk.js.map": "/FreshLook2022/static/js/787.fb0620e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b0c636f.css",
+    "static/js/main.6c533899.js"
+  ]
+}
